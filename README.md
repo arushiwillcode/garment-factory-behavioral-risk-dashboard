@@ -51,6 +51,7 @@ A multi-factor scoring approach was used to detect teams exhibiting statisticall
 
 ## 📊 Dashboard Features
 
+![Dashboard Preview](dashboard-preview.png)
 * Executive KPI Overview
 * Overtime vs Productivity Combo Chart
 * Stability Analysis
